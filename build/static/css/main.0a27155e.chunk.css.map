@@ -1,0 +1,1 @@
+{"version":3,"sources":["shuriken.css"],"names":[],"mappings":"AAAA,OACE,UAAW,CACX,WAAY,CACZ,kFAA6E,CAC7E,qBACF","file":"main.0a27155e.chunk.css","sourcesContent":[".block {\n  width: 50px;\n  height: 50px;\n  background: url(../src/images/ZUY0QxkLKNrTTBdDwcRpJwAgB.png) center no-repeat;\n  background-size: cover;\n}\n"]}
