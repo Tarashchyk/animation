@@ -1,16 +1,9 @@
-import React, { Component } from 'react';
-import Anime from 'react-anime';
+import React from 'react';
 
-import Shuriken from './shuriken';
+import Donut from './donut';
 
-class App extends Component {
-  render() {
-    return (
-      <Anime easing="linear" duration={1000} loop={true} translateX={100}>
-        <Shuriken />
-      </Anime>
-    );
-  }
-}
+const App = () => {
+  return <Donut />;
+};
 
 export default App;
